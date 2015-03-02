@@ -25,3 +25,14 @@ any responsibility for any damage, loss of income, or any problems you might
 experience from using our software. If you have questions, you are encouraged 
 to consult the paper and the source code. If you find our software useful, 
 please cite our paper above.
+
+Data sets:
+
+Metro data set: 
+http://dmas.lab.mcgill.ca/fung/pub/MetroDataSet.txt.
+
+MSNBC data set:
+http://archive.ics.uci.edu/ml/datasets.html
+
+Oldenburg generator:
+http://iapg.jade-hs.de/personen/brinkhoff/generator/
