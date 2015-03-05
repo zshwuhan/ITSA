@@ -5,8 +5,7 @@ Copyright 2014 Khalil Al-Hussaeni and Benjamin C. M. Fung
 
 Publication:
 
-Khalil Al-Hussaeni, Benjamin C.M. Fung, William K. Cheung, Privacy-preserving trajectory stream publishing, 
-Data & Knowledge Engineering, Volume 94, Part A, November 2014, Pages 89-109, ISSN 0169-023X,
+Khalil Al-Hussaeni, Benjamin C.M. Fung, and William K. Cheung. Privacy-preserving trajectory stream publishing. Data & Knowledge Engineering (DKE), 94(A):89-109, November 2014. Elsevier.
 
 Disclaimer:
 
