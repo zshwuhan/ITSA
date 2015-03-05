@@ -1,3 +1,4 @@
+Copyright 2014 Khalil Al-Hussaeni and Benjamin C. M. Fung 
 
 Publication:
 
