@@ -1,5 +1,5 @@
 # ITSA
-Privacy-preserving trajectory stream publishing
+Privacy-preserving trajectory stream publishing [DKE 2014]
 
 Copyright 2014 Khalil Al-Hussaeni and Benjamin C. M. Fung 
 
