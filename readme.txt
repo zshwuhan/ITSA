@@ -1,5 +1,5 @@
 License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
-Authors: Khalil Al-Hussaeni and Benjamin C. M. Fung 
+Owners: Khalil Al-Hussaeni and Benjamin C. M. Fung 
 
 Publication:
 
