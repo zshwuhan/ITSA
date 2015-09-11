@@ -2,6 +2,7 @@
 Privacy-preserving trajectory stream publishing [DKE 2014]
 
 License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
+
 Owners: Khalil Al-Hussaeni and Benjamin C. M. Fung 
 
 Publication:
